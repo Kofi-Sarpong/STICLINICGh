@@ -19,6 +19,8 @@ The project addresses barriers to sexual-healthcare access in Ghana, including l
 
 **Sign Up → Login → Home → STI/HIV Information / Find STI Clinic / Counselling → Appointment → Client Information → Schedule → Confirmation**
 
+![Prototypes](authentication.png)
+
 ## Problem
 
 Limited access to reliable HIV/STI information, stigma, difficulty locating comprehensive services, and concerns about privacy can discourage individuals from seeking timely sexual-health support.
@@ -60,16 +62,11 @@ STICLINICGh demonstrates the application of **digital health and health informat
 - [Future Development](documentation/future-development.md)
 - [Prototype](prototype/prototype-link.md)
 
-## Project Links
-
-**[View Project]** | **[View Prototype]**
-
-*Replace the placeholders with the live links.*
 
 ## Tools & Focus
 
 **Focus:** Digital Health, Health Informatics, Sexual Health, User-Centered Design  
-**Prototype Tool:** Miro
+**Prototype Tool:** Miro, Canva
 
 ## Author
 
