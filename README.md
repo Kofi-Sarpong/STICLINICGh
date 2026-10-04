@@ -62,7 +62,7 @@ Provides a pathway for users to access counselling services.
 
 ## 6. Appointment Booking
 
-[![Appointment Booking](images/appointment-confirmation.png)](images/appointment-confirmation.png)
+[![Appointment Booking](images/appointment%20confirmation.png)](images/appointment%20confirmation.png)
 
 Users can provide client information, select a schedule, and confirm an appointment.
 
