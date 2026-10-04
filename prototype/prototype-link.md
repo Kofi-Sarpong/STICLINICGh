@@ -17,6 +17,6 @@ The pitch deck presents prototype screens covering:
 
 These screens demonstrate the progression from account access and information discovery through clinic/counselling access and appointment completion.
 
-## Prototype Link
+## Prototype 
 
-**Prototype Tool:** Miro
+**Prototype Tools:** Miro and Canva
