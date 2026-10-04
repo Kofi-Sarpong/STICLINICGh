@@ -15,11 +15,56 @@ The project addresses barriers to sexual-healthcare access in Ghana, including l
 - **User Profile** — manage user information
 - **Secure Access** — sign-up, login, and password-reset flows
 
-## Prototype
+## Prototype Screens 
 
 **Sign Up → Login → Home → STI/HIV Information / Find STI Clinic / Counselling → Appointment → Client Information → Schedule → Confirmation**
+The following screens show the main user flows developed for the STICLINICGh concept.
 
-![Prototypes](authentication.png)
+## 1. Sign Up, Login & Password Reset
+
+[![Authentication Screens](images/authentication.png)](images/authentication.png)
+
+Users can create an account, sign in, and reset their password.
+
+---
+
+## 2. Home & Profile
+
+[![Home and Profile](images/home-profile.png)](images/home-profile.png)
+
+The home and profile screens provide the main entry point for accessing the application's services.
+
+---
+
+## 3. STI/HIV Information
+
+[![STI HIV Information](images/home-sti-hiv-guide.png)](images/home-sti-hiv-guide.png)
+
+Provides access to HIV/STI-related health information.
+
+---
+
+## 4. Find an STI Clinic
+
+[![Clinic Finder](images/home-find-sti-clinic.png)](images/home-find-sti-clinic.png)
+
+Helps users find appropriate STI healthcare services.
+
+---
+
+## 5. Counselling
+
+[![Counselling](images/home-counselling.png)](images/home-counselling.png)
+
+Provides a pathway for users to access counselling services.
+
+---
+
+## 6. Appointment Booking
+
+[![Appointment Booking](images/appointment-confirmation.png)](images/appointment-confirmation.png)
+
+Users can provide client information, select a schedule, and confirm an appointment.
 
 ## Problem
 
