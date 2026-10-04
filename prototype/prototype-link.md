@@ -19,8 +19,4 @@ These screens demonstrate the progression from account access and information di
 
 ## Prototype Link
 
-**[View Prototype](YOUR_PROTOTYPE_LINK_HERE)**
-
-Replace the placeholder with the live Miro/prototype link.
-
 **Prototype Tool:** Miro
